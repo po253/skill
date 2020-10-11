@@ -1,0 +1,103 @@
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Robot',sans-serif;
+}
+.container{
+    width: 20%;
+
+}
+.border{
+    box-shadow: 0px 0px 3px cornflower blue;
+    padding: 30px;
+    width: 100%;
+    margin-right: 10px;
+    min-height: 200px;
+
+}
+
+.left-side{
+    text-align:right;
+}
+.center{
+    text-align: center;
+
+}
+
+.search{
+    float: left;
+    width: 100%;
+    margin-bottom: 29px;
+    padding: 10px 20px;
+
+}
+
+.search .input{
+    float: left;
+    width: 100%;
+    padding: 10px;
+}
+.right-side{
+
+    padding: 40px;
+    width: 40%;
+    min-height: 200px;
+    float: right;
+}
+skills{
+    border:2px solid rgb(red, green, blue)
+    padding: 40px;
+    margin: 5px;
+    color: #150000;
+    text-align: right;
+    text-transform: capitalize;
+    font-weight: 400;
+    cursor: pointer;
+ 
+}
+
+.skill: hover{
+
+    background-color:Yellow;
+    color:whitesmoke;
+}
+.center-side{
+
+    padding:40px;
+    width: 30%;
+    min-height: 600px;
+    float: right;
+
+}
+.right-side{
+    float: right;
+    padding: 20px;
+    width: 40%;
+    min-height: 500px;
+
+}
+
+.buttons{
+     margin: 40px;
+     margin-top: 60px;
+     padding: 60px 40px;
+
+}
+.button-left{
+    color: orange;
+    padding: 10px;
+
+}
+.button-left: hover{
+    color: rgb(243, 140, 122)
+}
+
+.button-right{
+    color: orange;
+    padding: 10px;
+}
+
+.button-right: hover{
+    color: rgb(243, 140, 122);
+}
